@@ -1,0 +1,23 @@
+ /*I do not know what im doing*/
+ #heading{
+    color: rgb(255, 255, 255);
+    font-size: 3em;
+}
+body{
+    color: blue;
+    text-align:center;
+    background-color: black;
+    font: serif;
+}
+h2{
+     text-decoration: underline;
+}
+
+.dis{
+    font-size: 20px;
+    text-decoration:underline ;
+    font: cursive;
+    font-weight: bold;
+    font-style: oblique;
+}
+
